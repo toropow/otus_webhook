@@ -1,0 +1,6 @@
+vevn
+.idea
+conf
+__pycache__
+/conf.py
+/venv/
